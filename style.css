@@ -1,0 +1,34 @@
+body
+{
+    width: 90%;  
+}
+
+.buttons{
+    width: 40%;
+    margin: 0,auto;
+    box-shadow: 2px 1px 3px 5px #d5d5d5;
+    margin-top: 18%;
+    padding-left: 10%;
+    position: relative;
+    left: 32%;
+    height: 248px;
+    display: flex;
+    gap: 13%;
+}
+
+.buttons> #clickbtn1,
+#clickbtn2,
+#clickbtn3
+{
+    margin-top: 20%;
+    border: 0px;
+    margin-left: -10%;
+    width: 30%;
+    height: 50px;
+    border-radius: 10px;
+    font-size: 15px;
+    color: white;
+    background-color: green;
+}
+
+
